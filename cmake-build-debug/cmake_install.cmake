@@ -1,4 +1,4 @@
-# Install script for directory: D:/github/12lab
+# Install script for directory: D:/github/12lab/12Lab
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "D:/github/12lab/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "D:/github/12lab/12Lab/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
